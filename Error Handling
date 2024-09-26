@@ -1,0 +1,4 @@
+try:
+    result = check_url_with_virustotal(url)
+except Exception as e:
+    send_whatsapp_message(user_id, get_translation(user_lang, 'api_error'))
