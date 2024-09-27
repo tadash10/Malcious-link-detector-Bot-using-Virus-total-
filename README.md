@@ -1,4 +1,4 @@
-# WhatsApp Malicious Link Detection Bot
+# WhatsApp Malicious Link Detection Bot:
 
 ## Overview
 This is a Flask application that serves as a WhatsApp bot to check URLs against the VirusTotal API for potential malicious content. It sends the analysis results back to users via WhatsApp.
